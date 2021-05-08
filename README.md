@@ -30,11 +30,11 @@
   <tr>
     <td>
       
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaarahan&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaarahan)](https://github.com/anuraghazra/github-readme-stats)
     </td>
     <td>
   
-[![Gaarahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaarahan&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Gaarahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gaarahan)](https://github.com/anuraghazra/github-readme-stats)
     </td>
   </tr>
   </table>
