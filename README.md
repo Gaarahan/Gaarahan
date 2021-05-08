@@ -17,7 +17,7 @@
   <br />
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Node.js-%23000000?style=flat-square&logo=Node.js" />
-  <img src="https://img.shields.io/badge/-Arch%20Linux-%23FCC624?style=flat-square&logo=arch-linux&logoColor=%23ffffff" />
+  <img src="https://img.shields.io/badge/-Arch%20Linux-%23007ACC?style=flat-square&logo=arch-linux" />
   <br />
   <img src="https://img.shields.io/badge/vim-%2357A143.svg?&style=flat-square&logo=vim&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Webstrom-%23000000?style=flat-square&logo=Webstorm&logoColor=%23ffffff" />
